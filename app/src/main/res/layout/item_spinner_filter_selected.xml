@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bg_spinner_filter_selected"
+    android:paddingVertical="@dimen/_7sdp"
+    android:paddingHorizontal="@dimen/_5sdp">
+
+    <TextView
+        android:id="@+id/tv_filter_selected"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="@dimen/_8sdp"
+        android:layout_marginEnd="@dimen/_17sdp"
+        android:ellipsize="end"
+        android:maxLines="1"
+        android:text="@string/scan_finished"
+        android:textColor="@color/black"
+        android:textSize="10sp" />
+
+    <ImageView
+        android:id="@+id/img_drop_down"
+        android:layout_width="@dimen/_9sdp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true"
+        android:scaleType="fitCenter"
+        android:src="@drawable/ic_arrow_down" />
+</RelativeLayout>

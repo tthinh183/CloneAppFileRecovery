@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="AF_DEV_KEY" translatable="false">LikYKU2zUYTct7BoQ7MuJY</string>
+    <!-- MAX TEST ID -->
+    <string name="applovin_test_inter" translatable="false">c630fe3686063741</string>
+    <string name="applovin_test_banner" translatable="false">31cdd2e81ad9805e</string>
+    <string name="applovin_test_native" translatable="false">b8f6f81612cddf23</string>
+    <string name="applovin_test_reward" translatable="false">5ac0003d6da0d104</string>
+    <!--Admod ID-->
+<!--    <string name="admod_app_id" translatable="false">ca-app-pub-7117777112918698~8113711935</string>-->
+    <string name="admod_app_id" translatable="false">ca-app-pub-3940256099942544~3347511713</string><!--Admod TEST ID-->
+    <string name="facebook_app_id" translatable="false">1088964791852832</string>
+
+    <string name="more" tools:ignore="MissingTranslation">https://play.google.com/store/apps/details?id=com.recovery.filerecovery.datarecovery.photorecovery</string>
+    <string name="policy" tools:ignore="MissingTranslation">https://firebasestorage.googleapis.com/v0/b/file-recovery-8269d.appspot.com/o/Privacy-Policy.html?alt=media&amp;token=ea8b1cff-3dea-4e48-8b6a-d10cb3a9c9a6</string>
+    <string name="more_app" tools:ignore="MissingTranslation">https://play.google.com/store/apps/dev?id=7912884720699783932&amp;pli=1</string>
+    <string name="app_name" translatable="false">All Files Recovery</string>
+    <string name="camera_error" translatable="false">Obtaining the camera failed</string>
+    <string name="camera_permission" translatable="false">Camera permission is necessary for proper stroboscope effect</string>
+    <string name="bright_display" translatable="false">Bright display</string>
+
+    <string name="show_bright_display" translatable="false">Show a bright display button</string>
+    <string name="show_stroboscope" translatable="false">Show a stroboscope button</string>
+    <string name="show_sos" translatable="false">Show an SOS button</string>
+    <string name="txt_disco_control_bar" translatable="false">Disco control bar</string>
+    <string name="txt_information" translatable="false">Information</string>
+    <string name="txt_usage_tips" translatable="false">Usage Tips</string>
+    <string name="txt_sound" translatable="false">Sound</string>
+    <string name="txt_rate" translatable="false">Rating</string>
+    <string name="txt_more_app" translatable="false">More App</string>
+    <string name="txt_share" translatable="false">Share</string>
+    <string name="txt_privacy_policy" translatable="false"><u>Privacy Policy</u></string>
+    <string name="Thankyou" translatable="false">Thank you!</string>
+    <string name="your_opinion_matter_to_us" translatable="false">Your Opinion \nMatter To Us!</string>
+    <string name="not_now" translatable="false">Not now</string>
+    <string name="never" translatable="false">Never</string>
+    <string name="Send_Email" translatable="false">Send Email</string>
+    <string name="There_is_no" translatable="false">There is no email client installed.</string>
+    <string name="txt_some_tips_for_you" translatable="false">Some tips for you</string>
+    <string name="txt_skip" translatable="false">Skip</string>
+
+    <string name="changeColorr" translatable="false">Change color</string>
+    <string name="txt_are_you_sure_to_quit_this_app" translatable="false">Are you sure to quit this app?</string>
+    <string name="tap_to_continue" translatable="false">Tap to continue</string>
+    <string name="tap_here_to_open_the_screen_light" translatable="false">Tap here to open the screen light</string>
+    <string name="tap_here_to_open_settings" translatable="false">Tap here to open settings</string>
+    <string name="tap_here_to_turn_on_sos_light" translatable="false">Tap here to turn on SOS light</string>
+    <string name="tap_to_start" translatable="false">Tap to Start</string>
+    <string name="txt_language" translatable="false">Language</string>
+
+    <string name="choose" translatable="false">Choose color</string>
+    <string name="ok" translatable="false">Ok</string>
+    <string name="cancel" translatable="false">Cancel</string>
+    <string name="quit" translatable="false">Quit</string>
+    <string name="txt_install" translatable="false">Install</string>
+
+    <string name="this_action_can_contain_ads" translatable="false">This action can contain ads</string>
+
+    <string name="shake_your_phone_to_light_up" translatable="false">Shake your phone to light up.</string>
+    <string name="clap_your_hands_to_light_up" translatable="false">Clap your hands to light up.</string>
+    <string name="morse_code" translatable="false">Morse code</string>
+    <string name="your_text" translatable="false">Your text</string>
+    <string name="light_off" translatable="false">Light off</string>
+    <string name="light_on" translatable="false">Light on</string>
+    <string name="transmit" translatable="false">Transmit</string>
+    <string name="tap_the_power_button_to_activate_then_shake_your_phone_to_turn_on_the_light_imagine_you_have_a_magic_shake_light_in_the_middle_of_a_rave_crowd" translatable="false">Tap the power button to activate, then shake your phone to turn on the light. Imagine you have a magic-shake light in the middle of a rave crowd.</string>
+    <string name="this_is_the_disco_control_slide_bar_you_can_use_the_slider_to_control_the_light_speed_customize_your_own_party_light" translatable="false">This is the Disco control Slide bar. You can use the slider to control the light speed. Customize your own party light!</string>
+    <string name="click_the_color_wheel_to_select_and_change_background_color" translatable="false">Click the color wheel to select and change background color.</string>
+    <string name="about">About</string>
+    <string name="txt_version" translatable="false">Version</string>
+
+    <string name="ask_for_permissions" translatable="false">Allow access photos, media, and files on your device?</string>
+    //Intro Screen
+    <string name="scan_files_in_your_phone" translatable="false">Search your lost data</string>
+    <string name="search_all_files" translatable="false">Search all files on your device</string>
+    <string name="view_files_from_trash_bin" translatable="false">View all your deleted files</string>
+    <string name="have_a_look" translatable="false">Have a look &amp; find your precious deleted file</string>
+    <string name="restore_files_back" translatable="false">Restore deleted files</string>
+    <string name="choose_the_file" translatable="false">Choose the file you want to recover and here we go!</string>
+    <string name="next" translatable="false">Next</string>
+
+    //Select Language Screen
+    <string name="select_language" translatable="false">Select language</string>
+
+    //Home screen
+    <string name="home_title" translatable="false">File Recovery</string>
+    <string name="photos_button" translatable="false">Photos</string>
+    <string name="videos_button" translatable="false">Videos</string>
+    <string name="audios_button" translatable="false">Audios</string>
+    <string name="files_button" translatable="false">Files</string>
+    <string name="recycle_bin_button" translatable="false">Recycle Bin</string>
+    <string name="recycle_bin" translatable="false">Recycle Bin</string>
+    <string name="history_button" translatable="false">History</string>
+
+    //Instructions
+    <string name="first_tap_to_start_scan" translatable="false">1. Tap to start scan</string>
+    <string name="second_choose_image" translatable="false">2. Choose image</string>
+    <string name="third_choose_restore" translatable="false">2. Choose Restore</string>
+
+    //Scanner Screen
+    <string name="tap_to_start_scan" translatable="false">Tap to start scan</string>
+    <string name="scanning" translatable="false">Scanning...</string>
+    <string name="files_found" translatable="false"> files found</string>
+
+    //Photo Recovery
+    <string name="photo_recovery" translatable="false">Photo Recovery</string>
+    <string name="scan_finished" translatable="false">Scan finished</string>
+    <string name="all" translatable="false">All</string>
+    <string name="restore" translatable="false">Restore</string>
+    <string name="restore_with_bracket" translatable="false">Restore (</string>
+    <string name="restore_zero" translatable="false">Restore (0)</string>
+    <string name="today" translatable="false">Today (</string>
+    <string name="yesterday" translatable="false">Yesterday (</string>
+    <string name="other" translatable="false">Other (</string>
+    <string name="bracket" translatable="false">)</string>
+    <string name="spinner_today" translatable="false">Today</string>
+    <string name="spinner_yesterday" translatable="false">Yesterday</string>
+    <string name="spinner_other" translatable="false">Others</string>
+    <string name="please_select_at_least_one_item" translatable="false">Please select at least one item</string>
+    <string name="select_all" translatable="false">Select all</string>
+    <string name="type_label" translatable="false">File type</string>
+
+    //Photo Detail Recovery
+    <string name="name_label" translatable="false">Name</string>
+    <string name="path_label" translatable="false">Path</string>
+    <string name="size_label" translatable="false">File size</string>
+    <string name="created_label" translatable="false">Created</string>
+    <string name="deleted_label" translatable="false">Deleted</string>
+    <string name="restored_label" translatable="false">Restored</string>
+    <string name="file_not_found" translatable="false">No files found</string>
+
+    //Video Recovery
+    <string name="video_recovery" translatable="false">Video Recovery</string>
+
+    //Audio Recovery
+    <string name="audio_recovery" translatable="false">Audio Recovery</string>
+
+    //File Recovery
+    <string name="file_recovery" translatable="false">File Recovery</string>
+
+    //Setting
+    <string name="setting_title" translatable="false">Setting</string>
+    <string name="manual_item" translatable="false">Manual</string>
+    <string name="feedback_item" translatable="false">Feedback</string>
+    <string name="policy_item" translatable="false">Policy</string>
+    <string name="more_item" translatable="false">More App</string>
+
+    //Setting > Manual
+    <string name="manual_title" translatable="false">How to recover deleted files?</string>
+    <string name="manual_step1" translatable="false">Step 1: </string>
+    <string name="manual_step2" translatable="false">Step 2: </string>
+    <string name="manual_step3" translatable="false">Step 3: </string>
+    <string name="manual_step4" translatable="false">Step 4: </string>
+    <string name="manual_step11" translatable="false">Choose type file</string>
+    <string name="manual_step21" translatable="false">Tap to start scan</string>
+    <string name="manual_step31" translatable="false">Choose files</string>
+    <string name="manual_step41" translatable="false">Choose Restore</string>
+
+    //Setting > About
+    <string name="manual_about_content" translatable="false">All Files Recovery is an application that supports recovering deleted data in your phone. With a friendly interface, you will easily find and recover your data quickly. All Files Recovery was born with a focus on user experience, we always care about the needs of our customers to develop better and better products. This will be an indispensable application for your phone.</string>
+
+    //Setting > Rate
+    <string name="rate_this_app" translatable="false">Rate this app</string>
+    <string name="submit" translatable="false">submit</string>
+
+    //History Screen
+    <string name="photo_filter" translatable="false">Photo</string>
+    <string name="video_filter" translatable="false">Video</string>
+    <string name="audio_filter" translatable="false">Audio</string>
+    <string name="file_filter" translatable="false">File</string>
+    <string name="file_filter_notfound" translatable="false">No files match your selection</string>
+    //Recycle Bin
+    <string name="total" translatable="false">Total</string>
+
+    //Restore successfully
+    <string name="restore_successfully" translatable="false">Restore successfully</string>
+
+    <string name="Start">Start</string>
+    <string name="go">Go</string>
+    <string name="PermissionRequired">Permission Required</string>
+    <string name="PermissionRequiredDesc">Allow File Recovery to access device storage.</string>
+    <string name="allow">Allow</string>
+    <string name="Grant_Permission">Grant Permission</string>
+    <string name="Please_grant_all_permissions">Please grant all permissions to access additional functionality.</string>
+    <string name="Go_to_setting">Go to setting</string>
+    <string name="recovery">Recovery</string>
+    <string name="recycle">Recycle</string>
+    <string name="done">Done</string>
+    <string name="success">Success</string>
+    <string name="permission">Permission</string>
+    <string name="txt_permission">This app needs access to files on your phone to restore and requires access to your phone to function properly</string>
+    <string name="media">Media</string>
+    <string name="files_on_your_device">Files on your device</string>
+    <string name="continue_txt">Continue</string>
+    <string name="restore_successfully_with">"Restored successfully with"</string>
+    <string name="item">item</string>
+    <string name="sample">Sample</string>
+    <string name="restoring">Restoring</string>
+</resources>

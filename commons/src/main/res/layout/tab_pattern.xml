@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android" />
+<!--<com.files.commons.views.PatternTab-->
+<!--    xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--    android:id="@+id/pattern_lock_holder"-->
+<!--    android:layout_width="match_parent"-->
+<!--    android:layout_height="wrap_content">-->
+
+<!--    <com.files.commons.views.MyTextView-->
+<!--        android:id="@+id/pattern_lock_title"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:padding="@dimen/activity_margin"-->
+<!--        android:text="@string/insert_pattern"/>-->
+
+<!--&lt;!&ndash;    <com.andrognito.patternlockview.PatternLockView&ndash;&gt;-->
+<!--&lt;!&ndash;        android:id="@+id/pattern_lock_view"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:layout_width="280dp"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:layout_height="280dp"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:layout_below="@+id/pattern_lock_title"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:layout_centerInParent="true"/>&ndash;&gt;-->
+
+<!--</com.files.commons.views.PatternTab>-->

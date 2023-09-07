@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- MAX TEST ID -->
+    <string name="applovin_test_inter" translatable="false">c630fe3686063741</string>
+    <string name="applovin_test_banner" translatable="false" >31cdd2e81ad9805e</string>
+    <string name="applovin_test_native" translatable="false" >b8f6f81612cddf23</string>
+    <string name="applovin_test_reward" translatable="false">5ac0003d6da0d104</string>
+
+    <string name="app_name" translatable="false">All Files Recovery</string>
+    <string name="camera_error">कैमरा प्राप्त करना विफल रहा</string>
+    <string name="camera_permission">उचित स्ट्रोबोस्कोप प्रभाव के लिए कैमरा अनुमति आवश्यक है</string>
+    <string name="bright_display">उज्ज्वल प्रदर्शन</string>
+
+    <string name="show_bright_display">एक उज्ज्वल प्रदर्शन बटन दिखाएं</string>
+    <string name="show_stroboscope">स्ट्रोबोस्कोप बटन दिखाएं</string>
+    <string name="show_sos">एक एसओएस बटन दिखाएं</string>
+    <string name="txt_disco_control_bar" >डिस्को नियंत्रण बार</string>
+    <string name="txt_information" >जानकारी</string>
+    <string name="txt_usage_tips" >उपयोग युक्तियाँ</string>
+    <string name="txt_sound" >ध्वनि</string>
+    <string name="txt_rate" >रेटिंग</string>
+    <string name="txt_more_app" >और ज्यादा एप्लीकेशन</string>
+    <string name="txt_share" >शेयर करना</string>
+    <string name="txt_privacy_policy" ><u>गोपनीयता नीति</u></string>
+    <string name="Thankyou" >आपको धन्यवाद!</string>
+    <string name="your_opinion_matter_to_us" >आपकी राय \nहमारे लिए महत्वपूर्ण!</string>
+    <string name="not_now" >अभी नहीं</string>
+    <string name="never" translatable="false">कभी नहीँ</string>
+    <string name="Send_Email" >ईमेल भेजें</string>
+    <string name="There_is_no" >कोई ईमेल क्लाइंट स्थापित नहीं है।</string>
+    <string name="txt_some_tips_for_you" >आपके लिए कुछ टिप्स</string>
+    <string name="txt_skip" >छोड़ें</string>
+
+    <string name="changeColorr" >रंग बदलना</string>
+    <string name="txt_are_you_sure_to_quit_this_app">क्या आप वाकई इस ऐप को छोड़ना चाहते हैं?</string>
+    <string name="tap_to_continue">जारी रखने के लिए दबाएं</string>
+    <string name="tap_here_to_open_settings">सेटिंग खोलने के लिए यहां टैप करें</string>
+    <string name="tap_to_start">शरू करने के लिए टैप करें</string>
+    <string name="txt_language">भाषा</string>
+
+    <string name="choose">रंग पसंद करो</string>
+    <string name="ok">ठीक</string>
+    <string name="cancel">रद्द करना</string>
+    <string name="quit" translatable="false">छोड़ना</string>
+    <string name="txt_install">स्थापित करना</string>
+
+    <string name="this_action_can_contain_ads">इस क्रिया में विज्ञापन हो सकते हैं</string>
+    <string name="morse_code">मोर्स कोड</string>
+    <string name="your_text">आपकी पुस्तक</string>
+    <string name="transmit">संचारित</string>
+    <string name="click_the_color_wheel_to_select_and_change_background_color">पृष्ठभूमि का रंग चुनने और बदलने के लिए कलर व्हील पर क्लिक करें।</string>
+    <string name="about">के बारे में</string>
+    <string name="txt_version">संस्करण</string>
+    <string name="ask_for_permissions" translatable="false">अपने डिवाइस पर फ़ोटो, मीडिया और फ़ाइलों को एक्सेस करने की अनुमति दें?</string>
+
+    //Intro Screen
+    <string name="scan_files_in_your_phone" translatable="false">अपने खोए हुए डेटा को खोजें</string>
+    <string name="view_files_from_trash_bin" translatable="false">अपनी सभी हटाए गए फ़ाइलों को देखें</string>
+    <string name="restore_files_back" translatable="false">हटाए गए फ़ाइलों को पुनर्स्थापित करें</string>
+    <string name="search_all_files" translatable="false">अपने डिवाइस पर सभी फ़ाइलें खोजें</string>
+    <string name="have_a_look" translatable="false">एक नज़र डालें और अपनी कीमती हटाए गए फ़ाइल को ढूंढें</string>
+    <string name="choose_the_file" translatable="false">वह फ़ाइल चुनें जिसे आप पुनर्प्राप्त करना चाहते हैं और यहां हम जाते हैं</string>
+    <string name="next" translatable="false">अगला</string>
+
+    //Select Language
+    <string name="select_language" translatable="false">भाषा चुने</string>
+
+    //Home screen
+    <string name="home_title" translatable="false">फ़ाइल रिकवरी</string>
+    <string name="photos_button" translatable="false">तस्वीरें</string>
+    <string name="videos_button" translatable="false">वीडियो</string>
+    <string name="audios_button" translatable="false">ऑडियो</string>
+    <string name="files_button" translatable="false">फ़ाइलें</string>
+    <string name="recycle_bin_button" translatable="false">रीसायकल बिन</string>
+    <string name="history_button" translatable="false">इतिहास</string>
+
+    //Instructions
+    <string name="first_tap_to_start_scan" translatable="false">1. स्कैन प्रारंभ करने के लिए टैप करें</string>
+    <string name="second_choose_image" translatable="false">2. छवि चुनें</string>
+    <string name="third_choose_restore" translatable="false">3. रिस्टोर चुनें</string>
+
+    //Scanner Screen
+    <string name="tap_to_start_scan" translatable="false">स्कैन शुरू करने के लिए टैप करें</string>
+    <string name="scanning" translatable="false">स्कैनिंग...</string>
+    <string name="files_found" translatable="false"> फाइलें मिली</string>
+
+    //Photo Recovery
+    <string name="photo_recovery" translatable="false">फोटो रिकवरी</string>
+    <string name="scan_finished" translatable="false">स्कैन समाप्त हो गया</string>
+    <string name="all" translatable="false">सभी</string>
+    <string name="restore" translatable="false">पुनर्स्थापित करना</string>
+    <string name="restore_with_bracket" translatable="false">पुनर्स्थापित करना (</string>
+    <string name="restore_zero" translatable="false">पुनर्स्थापित करना (0)</string>
+    <string name="today" translatable="false">आज (</string>
+    <string name="yesterday" translatable="false">कल (</string>
+    <string name="other" translatable="false">अन्य (</string>
+    <string name="bracket" translatable="false">)</string>
+    <string name="spinner_today" translatable="false">आज</string>
+    <string name="spinner_yesterday" translatable="false">कल</string>
+    <string name="spinner_other" translatable="false">अन्य</string>
+    <string name="please_select_at_least_one_item" translatable="false">कृपया कम से कम एक आइटम चुनें</string>
+    <string name="select_all" translatable="false">सबका चयन करें</string>
+    <string name="type_label" translatable="false">फाइल का प्रकार</string>
+
+    //Photo Detail Recovery
+    <string name="name_label" translatable="false">नाम</string>
+    <string name="path_label" translatable="false">पथ</string>
+    <string name="size_label" translatable="false">फ़ाइल का साइज़</string>
+    <string name="created_label" translatable="false">बनाया था</string>
+    <string name="deleted_label" translatable="false">हटाए गए</string>
+    <string name="restored_label" translatable="false">Restored</string>
+    <string name="file_not_found" translatable="false">कोई फाईल नहीं मिली</string>
+
+    //Video Recovery
+    <string name="video_recovery" translatable="false">वीडियो रिकवरी</string>
+
+    //Audio Recovery
+    <string name="audio_recovery" translatable="false">ऑडियो रिकवरी</string>
+
+    //File Recovery
+    <string name="file_recovery" translatable="false">फ़ाइल रिकवरी</string>
+
+    //Setting
+    <string name="setting_title" translatable="false">सेटिंग</string>
+    <string name="manual_item" translatable="false">नियमावली</string>
+    <string name="feedback_item" translatable="false">प्रतिक्रिया</string>
+    <string name="policy_item" translatable="false">नीति</string>
+    <string name="more_item" translatable="false">और ज्यादा एप्लीकेशन</string>
+
+    //Setting > Manual
+    <string name="manual_title" translatable="false">हटाए गए फ़ाइलों को कैसे पुनर्प्राप्त करें?</string>
+    <string name="manual_step1" translatable="false">चरण 1: </string>
+    <string name="manual_step2" translatable="false">चरण 2: </string>
+    <string name="manual_step3" translatable="false">चरण 3: </string>
+    <string name="manual_step4" translatable="false">चरण 4: </string>
+    <string name="manual_step11" translatable="false">टाइप फ़ाइल चुनें</string>
+    <string name="manual_step21" translatable="false">स्कैन शुरू करने के लिए टैप करें</string>
+    <string name="manual_step31" translatable="false">फ़ाइलें चुनें</string>
+    <string name="manual_step41" translatable="false">पुनर्स्थापना चुनें</string>
+
+    //Setting > About
+    <string name="manual_about_content" translatable="false">सभी फाइलें रिकवरी एक एप्लिकेशन है जो आपके फोन में डिलीट किए गए डेटा को पुनर्प्राप्त करने का समर्थन करती है। एक दोस्ताना इंटरफ़ेस के साथ, आप आसानी से अपने डेटा को जल्दी से ढूंढेंगे और पुनर्प्राप्त करेंगे। सभी फ़ाइलों की वसूली उपयोगकर्ता अनुभव पर ध्यान केंद्रित करने के साथ पैदा हुई थी, हम हमेशा अपने ग्राहकों की जरूरतों के बारे में बेहतर और बेहतर उत्पादों को विकसित करने के लिए परवाह करते हैं। यह आपके फोन के लिए एक अपरिहार्य एप्लिकेशन होगा।</string>
+
+    //Setting > Rate
+    <string name="rate_this_app" translatable="false">इस ऐप्लिकेशन को रेट करें</string>
+    <string name="submit" translatable="false">जमा करना</string>
+
+    //History Screen
+    <string name="photo_filter" translatable="false">तस्वीर</string>
+    <string name="video_filter" translatable="false">वीडियो</string>
+    <string name="audio_filter" translatable="false">ऑडियो</string>
+    <string name="file_filter" translatable="false">फ़ाइल</string>
+    <string name="file_filter_notfound" translatable="false">कोई फाइलें आपके चयन से मेल नहीं खाती हैं</string>
+    //Recycle Bin
+    <string name="total" translatable="false">कुल</string>
+
+    //Restore successfully
+    <string name="restore_successfully" translatable="false">सफलतापूर्वक पुनर्स्थापित करें</string>
+
+    <string name="Start">शुरू</string>
+    <string name="go">जाना</string>
+    <string name="PermissionRequired">अनुमति आवश्यक है</string>
+    <string name="PermissionRequiredDesc">अलार्म क्लॉक को डिवाइस स्टोरेज एक्सेस करने की अनुमति दें।</string>
+    <string name="allow">अनुमति देना</string>
+    <string name="Grant_Permission">अनुदान अनुमति</string>
+    <string name="Please_grant_all_permissions">कृपया अतिरिक्त कार्यक्षमता तक पहुँचने के लिए सभी अनुमतियाँ प्रदान करें।</string>
+    <string name="Go_to_setting">सेटिंग में जाएं</string>
+    <string name="recovery">वसूली</string>
+    <string name="recycle">अपनी बात दोहराना</string>
+    <string name="done">पूर्ण</string>
+    <string name="success">सफलता</string>
+    <string name="permission">पारिश्रमिक</string>
+    <string name="txt_permission">इस ऐप को पुनर्स्थापित करने के लिए आपके फ़ोन पर फ़ाइलों तक पहुंच की आवश्यकता है और ठीक से काम करने के लिए आपके फ़ोन तक पहुंच की आवश्यकता है</string>
+    <string name="media">मिडिया</string>
+    <string name="files_on_your_device">आपके डिवाइस पर फाइलें</string>
+    <string name="continue_txt">जारी रखना</string>
+    <string name="recycle_bin">रीसायकल बिन</string>
+    <string name="restore_successfully_with">"के साथ सफलतापूर्वक बहाल किया"</string>
+    <string name="item">वस्तु</string>
+    <string name="sample">नमूना</string>
+    <string name="restoring">बहाल करना...</string>
+</resources>

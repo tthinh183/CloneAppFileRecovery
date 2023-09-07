@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- MAX TEST ID -->
+    <string name="applovin_test_inter" translatable="false">c630fe3686063741</string>
+    <string name="applovin_test_banner" translatable="false" >31cdd2e81ad9805e</string>
+    <string name="applovin_test_native" translatable="false" >b8f6f81612cddf23</string>
+    <string name="applovin_test_reward" translatable="false">5ac0003d6da0d104</string>
+
+    <string name="app_name" translatable="false">All Files Recovery</string>
+    <string name="camera_error">A obtenção da câmera falhou</string>
+    <string name="camera_permission">A permissão da câmera é necessária para o efeito estroboscópio adequado</string>
+    <string name="bright_display">Tela brilhante</string>
+
+    <string name="show_bright_display">Mostrar um botão de exibição brilhante</string>
+    <string name="show_stroboscope">Mostrar um botão do estroboscópio</string>
+    <string name="show_sos">Mostrar um botão SOS</string>
+    <string name="txt_disco_control_bar" >Barra de controle de discoteca</string>
+    <string name="txt_information" >Em formação</string>
+    <string name="txt_usage_tips" >Dicas de uso</string>
+    <string name="txt_sound" >Som</string>
+    <string name="txt_rate" >Avaliação</string>
+    <string name="txt_more_app" >Mais aplicações</string>
+    <string name="txt_share" >Compartilhar</string>
+    <string name="txt_privacy_policy" ><u>Política de Privacidade</u></string>
+    <string name="Thankyou" >Obrigada!</string>
+    <string name="your_opinion_matter_to_us" >Sua opinião \nÉ importante para nós!</string>
+    <string name="not_now" >Agora não</string>
+    <string name="never" translatable="false">Nunca</string>
+    <string name="Send_Email" >Enviar email</string>
+    <string name="There_is_no" >Não há nenhum cliente de e-mail instalado.</string>
+    <string name="txt_some_tips_for_you" >Algumas dicas para você</string>
+    <string name="txt_skip" >Pular</string>
+
+    <string name="changeColorr" >Mudar cor</string>
+    <string name="txt_are_you_sure_to_quit_this_app">Tem certeza de sair deste aplicativo?</string>
+    <string name="tap_to_continue">Clique para continuar</string>
+    <string name="tap_here_to_open_the_screen_light">Toque aqui para abrir a luz da tela</string>
+    <string name="tap_here_to_open_settings">Toque aqui para abrir as configurações</string>
+    <string name="tap_here_to_turn_on_sos_light">Toque aqui para ligar a luz SOS</string>
+    <string name="tap_to_start">Clique para começar</string>
+    <string name="txt_language">Linguagem</string>
+
+    <string name="choose">Escolha a cor</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancelar</string>
+    <string name="quit" translatable="false">Desistir</string>
+    <string name="txt_install">Instalar</string>
+
+    <string name="this_action_can_contain_ads">Esta ação pode conter anúncios</string>
+    <string name="shake_your_phone_to_light_up">Agite seu telefone para acender.</string>
+    <string name="clap_your_hands_to_light_up">Bata palmas para acender.</string>
+    <string name="morse_code">Código Morse</string>
+    <string name="your_text">Seu texto</string>
+    <string name="light_off">Luz apagada</string>
+    <string name="light_on">Luzes ligadas</string>
+    <string name="transmit">Transmite</string>
+    <string name="tap_the_power_button_to_activate_then_shake_your_phone_to_turn_on_the_light_imagine_you_have_a_magic_shake_light_in_the_middle_of_a_rave_crowd">Toque no botão liga/desliga para ativar e agite o telefone para acender a luz. Imagine que você tem uma luz mágica no meio de uma multidão rave.</string>
+    <string name="this_is_the_disco_control_slide_bar_you_can_use_the_slider_to_control_the_light_speed_customize_your_own_party_light">Esta é a barra deslizante do controle Disco. Você pode usar o controle deslizante para controlar a velocidade da luz. Personalize sua própria luz de festa!</string>
+    <string name="click_the_color_wheel_to_select_and_change_background_color">Clique na roda de cores para selecionar e alterar a cor de fundo.</string>
+    <string name="about">Sobre</string>
+    <string name="txt_version">Versão</string>
+    <string name="ask_for_permissions" translatable="false">Permitir fotos de acesso, mídia e arquivos no seu dispositivo?</string>
+
+    //Intro Screen
+    <string name="scan_files_in_your_phone" translatable="false">Pesquise seus dados perdidos</string>
+    <string name="view_files_from_trash_bin" translatable="false">Veja todos os seus arquivos excluídos</string>
+    <string name="restore_files_back" translatable="false">Restaurar arquivos excluídos</string>
+    <string name="search_all_files" translatable="false">Pesquise todos os arquivos no seu dispositivo</string>
+    <string name="have_a_look" translatable="false">Dê uma olhada e encontre seu precioso arquivo excluído</string>
+    <string name="choose_the_file" translatable="false">Escolha o arquivo que você deseja recuperar e aqui vamos nós!</string>
+    <string name="next" translatable="false">Próximo</string>
+
+    //Select Lanuage
+    <string name="select_language" translatable="false">Selecione o idioma</string>
+
+    //Home screen
+    <string name="home_title" translatable="false">Recuperação de arquivos</string>
+    <string name="photos_button" translatable="false">Fotos</string>
+    <string name="videos_button" translatable="false">Vídeos</string>
+    <string name="audios_button" translatable="false">áudios</string>
+    <string name="files_button" translatable="false">arquivos</string>
+    <string name="recycle_bin_button" translatable="false">Lixeira de reciclagem</string>
+    <string name="history_button" translatable="false">História</string>
+
+    //Instructions
+    <string name="first_tap_to_start_scan" translatable="false">1. Toque para iniciar a digitalização</string>
+    <string name="second_choose_image" translatable="false">2. Escolha a imagem</string>
+    <string name="third_choose_restore" translatable="false">3. Escolha Restaurar</string>
+
+    //Scanner Screen
+    <string name="tap_to_start_scan" translatable="false">Toque para iniciar a digitalização</string>
+    <string name="scanning" translatable="false">Digitalizando...</string>
+    <string name="files_found" translatable="false"> arquivos encontrados</string>
+
+    //Photo Recovery
+    <string name="photo_recovery" translatable="false">Recuperação de fotos</string>
+    <string name="scan_finished" translatable="false">Digitalização terminada</string>
+    <string name="all" translatable="false">Todos</string>
+    <string name="restore" translatable="false">Restaurar</string>
+    <string name="restore_with_bracket" translatable="false">Restaurar (</string>
+    <string name="restore_zero" translatable="false">Restaurar (0)</string>
+    <string name="today" translatable="false">Hoje (</string>
+    <string name="yesterday" translatable="false">Ontem (</string>
+    <string name="other" translatable="false">Outro (</string>
+    <string name="bracket" translatable="false">)</string>
+    <string name="spinner_today" translatable="false">Hoje</string>
+    <string name="spinner_yesterday" translatable="false">Ontem</string>
+    <string name="spinner_other" translatable="false">Outro</string>
+    <string name="please_select_at_least_one_item" translatable="false">Selecione pelo menos um item</string>
+    <string name="select_all" translatable="false">Selecionar tudo</string>
+    <string name="type_label" translatable="false">Tipo de arquivo</string>
+
+    //Photo Detail Recovery
+    <string name="name_label" translatable="false">Nome</string>
+    <string name="path_label" translatable="false">Caminho</string>
+    <string name="size_label" translatable="false">Tamanho do arquivo</string>
+    <string name="created_label" translatable="false">Criado</string>
+    <string name="deleted_label" translatable="false">Excluído</string>
+    <string name="restored_label" translatable="false">Restored</string>
+    <string name="file_not_found" translatable="false">Nenhum arquivo encontrado</string>
+
+    //Video Recovery
+    <string name="video_recovery" translatable="false">Recuperação de vídeo</string>
+
+    //Audio Recovery
+    <string name="audio_recovery" translatable="false">Recuperação de áudio</string>
+
+    //File Recovery
+    <string name="file_recovery" translatable="false">Recuperação de arquivos</string>
+
+    //Setting
+    <string name="setting_title" translatable="false">Contexto</string>
+    <string name="manual_item" translatable="false">Manual</string>
+    <string name="feedback_item" translatable="false">Opinião</string>
+    <string name="policy_item" translatable="false">Política</string>
+    <string name="more_item" translatable="false">Mais aplicações</string>
+
+    //Setting > Manual
+    <string name="manual_title" translatable="false">Como recuperar arquivos apagados?</string>
+    <string name="manual_step1" translatable="false">Etapa 1: </string>
+    <string name="manual_step2" translatable="false">Etapa 2: </string>
+    <string name="manual_step3" translatable="false">Etapa 3: </string>
+    <string name="manual_step4" translatable="false">Etapa 4: </string>
+    <string name="manual_step11" translatable="false">Escolha o arquivo de tipo</string>
+    <string name="manual_step21" translatable="false">toque para iniciar a digitalização</string>
+    <string name="manual_step31" translatable="false">Escolha arquivos</string>
+    <string name="manual_step41" translatable="false">Escolha Restaurar</string>
+
+    //Setting > About
+    <string name="manual_about_content" translatable="false">Toda a recuperação de arquivos é um aplicativo que suporta a recuperação de dados excluídos no seu telefone. Com uma interface amigável, você encontrará e recuperará facilmente seus dados rapidamente. Toda a recuperação de arquivos nasceu com foco na experiência do usuário, sempre nos preocupamos com as necessidades de nossos clientes para desenvolver produtos cada vez melhores. Este será um aplicativo indispensável para o seu telefone.</string>
+
+    //Setting > Rate
+    <string name="rate_this_app" translatable="false">Avalie este aplicativo</string>
+    <string name="submit" translatable="false">enviar</string>
+
+    //History Screen
+    <string name="photo_filter" translatable="false">Foto</string>
+    <string name="video_filter" translatable="false">Vídeo</string>
+    <string name="audio_filter" translatable="false">áudio</string>
+    <string name="file_filter" translatable="false">Arquivo</string>
+    <string name="file_filter_notfound" translatable="false">Nenhum arquivo corresponde à sua seleção</string>
+    //Recycle Bin
+    <string name="total" translatable="false">Total</string>
+
+    //Restore successfully
+    <string name="restore_successfully" translatable="false">Restaurar com sucesso</string>
+
+    <string name="Start">Começar</string>
+    <string name="go">Ir</string>
+    <string name="PermissionRequired">Permissão Necessária</string>
+    <string name="PermissionRequiredDesc">Permitir que o Despertador acesse o armazenamento do dispositivo.</string>
+    <string name="allow">Permitir</string>
+    <string name="Grant_Permission">Conceder permissão</string>
+    <string name="Please_grant_all_permissions">Conceda todas as permissões para acessar funcionalidades adicionais.</string>
+    <string name="Go_to_setting">Ir para configuração</string>
+    <string name="recovery">Recuperação</string>
+    <string name="recycle">Reciclar</string>
+    <string name="done">Feito</string>
+    <string name="success">Sucesso</string>
+    <string name="permission">Permissão</string>
+    <string name="txt_permission">Este aplicativo precisa de acesso aos arquivos no seu telefone para restaurar e requer acesso ao seu telefone para funcionar corretamente</string>
+    <string name="media">meios de comunicação</string>
+    <string name="files_on_your_device">Arquivos no seu dispositivo</string>
+    <string name="continue_txt">Continuar</string>
+    <string name="recycle_bin">Lixeira de reciclagem</string>
+    <string name="restore_successfully_with">"Restaurado com sucesso com"</string>
+    <string name="item">item</string>
+    <string name="sample">Amostra</string>
+    <string name="restoring">Restaurando...</string>
+</resources>

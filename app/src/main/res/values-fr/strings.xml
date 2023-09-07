@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- MAX TEST ID -->
+    <string name="applovin_test_inter" translatable="false">c630fe3686063741</string>
+    <string name="applovin_test_banner" translatable="false" >31cdd2e81ad9805e</string>
+    <string name="applovin_test_native" translatable="false" >b8f6f81612cddf23</string>
+    <string name="applovin_test_reward" translatable="false">5ac0003d6da0d104</string>
+
+    <string name="app_name" translatable="false">All Files Recovery</string>
+    <string name="camera_error">Échec de l\'obtention de la caméra</string>
+    <string name="camera_permission">L\'autorisation de la caméra est nécessaire pour un effet stroboscope approprié</string>
+    <string name="bright_display">Affichage lumineux</string>
+
+    <string name="show_bright_display">Afficher un bouton d\'affichage lumineux</string>
+    <string name="show_stroboscope">Afficher un bouton stroboscope</string>
+    <string name="show_sos">Afficher un bouton SOS</string>
+    <string name="txt_disco_control_bar" >Barre de contrôle Disco</string>
+    <string name="txt_information" >Informations</string>
+    <string name="txt_usage_tips" >Conseils d\'utilisation</string>
+    <string name="txt_sound" >Du son</string>
+    <string name="txt_rate" >Notation</string>
+    <string name="txt_more_app" >Plus d\'application</string>
+    <string name="txt_share" >Partager</string>
+    <string name="txt_privacy_policy" ><u>Politique de confidentialité</u></string>
+    <string name="Thankyou" >Merci!</string>
+    <string name="your_opinion_matter_to_us" >Votre avis \nCompte pour nous !</string>
+    <string name="not_now" >Pas maintenant</string>
+    <string name="never" translatable="false">Jamais</string>
+    <string name="Send_Email" >Envoyer un e-mail</string>
+    <string name="There_is_no" >Aucun client de messagerie n\'est installé.</string>
+    <string name="txt_some_tips_for_you" >Quelques conseils pour vous</string>
+    <string name="txt_skip" >Sauter</string>
+
+    <string name="changeColorr" >Changer de couleur</string>
+    <string name="txt_are_you_sure_to_quit_this_app">Êtes-vous sûr de quitter cette application ?</string>
+    <string name="tap_to_continue">Appuyez pour continuer</string>
+    <string name="tap_here_to_open_settings">Appuyez ici pour ouvrir les paramètres</string>
+    <string name="tap_to_start">Appuyez pour commencer</string>
+    <string name="txt_language">Langue</string>
+
+    <string name="choose">Choisir la couleur</string>
+    <string name="ok">D\'accord</string>
+    <string name="cancel">Annuler</string>
+    <string name="quit" translatable="false">Quitter</string>
+    <string name="txt_install">Installer</string>
+
+    <string name="this_action_can_contain_ads">Cette action peut contenir des publicités</string>
+    <string name="morse_code">Morse</string>
+    <string name="your_text">Ton texte</string>
+    <string name="transmit">Transmettre</string>
+    <string name="click_the_color_wheel_to_select_and_change_background_color">Cliquez sur la roue chromatique pour sélectionner et modifier la couleur d\'arrière-plan.</string>
+    <string name="about">À propos</string>
+    <string name="txt_version">Version</string>
+    <string name="ask_for_permissions" translatable="false">Autoriser accéder aux photos, aux médias et aux fichiers sur votre appareil?</string>
+
+    //Intro Screen
+    <string name="scan_files_in_your_phone" translatable="false">Recherchez vos données perdues</string>
+    <string name="view_files_from_trash_bin" translatable="false">Afficher tous vos fichiers supprimés</string>
+    <string name="restore_files_back" translatable="false">Restaurer les fichiers supprimés</string>
+    <string name="search_all_files" translatable="false">Recherchez tous les fichiers de votre appareil</string>
+    <string name="have_a_look" translatable="false">Jetez un œil et trouvez votre précieux fichier supprimé</string>
+    <string name="choose_the_file" translatable="false">Choisissez le fichier que vous souhaitez récupérer et c\'est parti</string>
+    <string name="next" translatable="false">Suivant</string>
+
+    //Select Language
+    <string name="select_language" translatable="false">Choisir la langue</string>
+
+    //Home screen
+    <string name="home_title" translatable="false">Récupération de fichier</string>
+    <string name="photos_button" translatable="false">Photos</string>
+    <string name="videos_button" translatable="false">Vidéos</string>
+    <string name="audios_button" translatable="false">Audios</string>
+    <string name="files_button" translatable="false">Des dossiers</string>
+    <string name="recycle_bin_button" translatable="false">Bac de recyclage</string>
+    <string name="history_button" translatable="false">Histoire</string>
+
+    //Instructions
+    <string name="first_tap_to_start_scan" translatable="false">1. Appuyez sur pour lancer l\'analyse</string>
+    <string name="second_choose_image" translatable="false">2. Choisissez l\'image</string>
+    <string name="third_choose_restore" translatable="false">3. Choisissez Restaurer</string>
+
+    //Scanner Screen
+    <string name="tap_to_start_scan" translatable="false">Appuyez pour lancer l\'analyse</string>
+    <string name="scanning" translatable="false">Balayage...</string>
+    <string name="files_found" translatable="false"> fichiers trouvés</string>
+
+    //Photo Recovery
+    <string name="photo_recovery" translatable="false">Récupération de photos</string>
+    <string name="scan_finished" translatable="false">Scan terminé</string>
+    <string name="all" translatable="false">Tous</string>
+    <string name="restore" translatable="false">Restaurer</string>
+    <string name="restore_with_bracket" translatable="false">Restaurer (</string>
+    <string name="restore_zero" translatable="false">Restaurer (0)</string>
+    <string name="today" translatable="false">Aujourd\'hui (</string>
+    <string name="yesterday" translatable="false">Hier (</string>
+    <string name="other" translatable="false">Autre (</string>
+    <string name="bracket" translatable="false">)</string>
+    <string name="spinner_today" translatable="false">Aujourd\'hui</string>
+    <string name="spinner_yesterday" translatable="false">Hier</string>
+    <string name="spinner_other" translatable="false">Autre</string>
+    <string name="please_select_at_least_one_item" translatable="false">Veuillez sélectionner au moins un élément</string>
+    <string name="select_all" translatable="false">Tout sélectionner</string>
+    <string name="type_label" translatable="false">Type de fichier</string>
+
+    //Photo Detail Recovery
+    <string name="name_label" translatable="false">Nom</string>
+    <string name="path_label" translatable="false">Chemin</string>
+    <string name="size_label" translatable="false">Taille du fichier</string>
+    <string name="created_label" translatable="false">Créé</string>
+    <string name="deleted_label" translatable="false">Supprimé</string>
+    <string name="restored_label" translatable="false">Restored</string>
+    <string name="file_not_found" translatable="false">Aucun fichier trouvé</string>
+
+    //Video Recovery
+    <string name="video_recovery" translatable="false">Récupération vidéo</string>
+
+    //Audio Recovery
+    <string name="audio_recovery" translatable="false">Récupération audio</string>
+
+    //File Recovery
+    <string name="file_recovery" translatable="false">Récupération de fichier</string>
+
+    //Setting
+    <string name="setting_title" translatable="false">Paramètre</string>
+    <string name="manual_item" translatable="false">Manuel</string>
+    <string name="feedback_item" translatable="false">Retour</string>
+    <string name="policy_item" translatable="false">Politique</string>
+    <string name="more_item" translatable="false">Plus d\'application</string>
+
+    //Setting > Manual
+    <string name="manual_title" translatable="false">Comment récupérer les fichiers supprimés?</string>
+    <string name="manual_step1" translatable="false">Étape 1: </string>
+    <string name="manual_step2" translatable="false">Étape 2: </string>
+    <string name="manual_step3" translatable="false">Étape 3: </string>
+    <string name="manual_step4" translatable="false">Étape 4: </string>
+    <string name="manual_step11" translatable="false">Choisissez le fichier de type</string>
+    <string name="manual_step21" translatable="false">Appuyez sur pour commencer la numérisation</string>
+    <string name="manual_step31" translatable="false">Choisissez des fichiers</string>
+    <string name="manual_step41" translatable="false">Choisissez la restauration</string>
+
+    //Setting > About
+    <string name="manual_about_content" translatable="false">Tous les fichiers Recovery sont une application qui prend en charge la récupération des données supprimées dans votre téléphone. Avec une interface amicale, vous trouverez facilement et récupérerez vos données rapidement. Tous les fichiers Recovery sont nés en mettant l\'accent sur l\'expérience utilisateur, nous nous soucions toujours des besoins de nos clients pour développer de meilleurs produits. Ce sera une application indispensable pour votre téléphone.</string>
+
+    //Setting > Rate
+    <string name="rate_this_app" translatable="false">Évaluer l\'application</string>
+    <string name="submit" translatable="false">soumettre</string>
+
+    //History Screen
+    <string name="photo_filter" translatable="false">Photo</string>
+    <string name="video_filter" translatable="false">Vidéo</string>
+    <string name="audio_filter" translatable="false">l\'audio</string>
+    <string name="file_filter" translatable="false">Déposer</string>
+    <string name="file_filter_notfound" translatable="false">Aucun fichier ne correspond à votre sélection</string>
+    //Recycle Bin
+    <string name="total" translatable="false">Total</string>
+
+    //Restore successfully
+    <string name="restore_successfully" translatable="false">Restaurer avec succès</string>
+
+    <string name="Start">Commencer</string>
+    <string name="go">Aller</string>
+    <string name="PermissionRequired">Autorisation requise</string>
+    <string name="PermissionRequiredDesc">Autoriser le réveil à accéder à la mémoire de l\'appareil.</string>
+    <string name="allow">Permettre</string>
+    <string name="Grant_Permission">Donner la permission</string>
+    <string name="Please_grant_all_permissions">Veuillez accorder toutes les autorisations pour accéder à des fonctionnalités supplémentaires.</string>
+    <string name="Go_to_setting">Aller au réglage</string>
+    <string name="recovery">Récupération</string>
+    <string name="recycle">Recycler</string>
+    <string name="done">Fait</string>
+    <string name="success">Succès</string>
+    <string name="permission">Perméation</string>
+    <string name="txt_permission">Cette application a besoin d\'accès aux fichiers de votre téléphone pour restaurer et nécessite l\'accès à votre téléphone pour fonctionner correctement</string>
+    <string name="media">Médias</string>
+    <string name="files_on_your_device">Fichiers sur votre appareil</string>
+    <string name="continue_txt">Continuer</string>
+    <string name="recycle_bin">Bac de recyclage</string>
+    <string name="restore_successfully_with">"Restauré avec succès avec"</string>
+    <string name="item">article</string>
+    <string name="sample">Goûter</string>
+    <string name="restoring">Restaurer...</string>
+</resources>

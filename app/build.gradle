@@ -1,0 +1,135 @@
+plugins {
+    id 'com.android.application'
+    id 'kotlin-android'
+    id 'kotlin-android-extensions'
+    id 'com.google.gms.google-services'
+}
+
+android {
+    namespace 'com.app.allfilerecovery'
+    compileSdk 33
+
+    defaultConfig {
+        applicationId "com.recovery.filerecovery.datarecovery.photorecovery"
+        minSdk 23
+        targetSdk 33
+        versionCode 17
+        versionName "1.2.5"
+
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        multiDexEnabled true
+        def formattedDate = new Date().format('MM.dd.yyyy')
+        archivesBaseName = "FileRecovery_v${versionName}_($versionCode)_${formattedDate}"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+    kotlinOptions {
+        jvmTarget = '1.8'
+    }
+    buildFeatures {
+        viewBinding true
+    }
+    sourceSets {
+        main.java.srcDirs += 'src/main/kotlin'
+    }
+    flavorDimensions "default"
+    productFlavors {
+        appDev {
+            //use id test when dev
+            manifestPlaceholders = [ad_app_id: "ca-app-pub-3940256099942544~3347511713"]
+            buildConfigField "String", "appopen_resume", "\"ca-app-pub-3940256099942544/3419835294\""
+            buildConfigField "String", "native_detail", "\"ca-app-pub-3940256099942544/2247696110\""
+            buildConfigField "String", "native_photo_video_audio_file", "\"ca-app-pub-3940256099942544/2247696110\""
+            buildConfigField "String", "native_success", "\"ca-app-pub-3940256099942544/2247696110\""
+            buildConfigField "Boolean", "env_dev", "true"
+        }
+        appProd {
+            //add your id ad here
+//            manifestPlaceholders = [ ad_app_id:"ca-app-pub-7117777112918698~8113711935"]
+//            buildConfigField "String", "appopen_resume", "\"ca-app-pub-7117777112918698/6581138418\""
+//            buildConfigField "String", "native_detail", "\"ca-app-pub-7117777112918698/1025559405\""
+//            buildConfigField "String", "native_photo_video_audio_file", "\"ca-app-pub-7117777112918698/1744616847\""
+//            buildConfigField "String", "native_success", "\"ca-app-pub-7117777112918698/7614771060\""
+            buildConfigField "Boolean", "env_dev", "true"
+        }
+    }
+    dataBinding {
+        enabled = true
+    }
+    bundle {
+
+        language {
+            enableSplit = false
+
+
+        }
+        density {
+            // This property is set to true by default.
+            enableSplit = true
+        }
+        abi {
+            // This property is set to true by default.
+            enableSplit = true
+        }
+    }
+}
+
+dependencies {
+
+    implementation 'com.android.support.constraint:constraint-layout:2.0.4'
+    implementation 'androidx.navigation:navigation-fragment-ktx:2.5.3'
+    implementation 'androidx.navigation:navigation-ui-ktx:2.5.3'
+//    implementation project(path: ':ads')
+    implementation 'com.google.android.play:core-ktx:1.8.1'
+    testImplementation 'junit:junit:4.13.2'
+
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation 'androidx.appcompat:appcompat:1.2.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.0.1'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.2'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
+
+    implementation "androidx.recyclerview:recyclerview:1.1.0"
+    implementation 'com.google.android.material:material:1.2.1'
+    implementation "androidx.cardview:cardview:1.0.0"
+
+    implementation 'com.github.bumptech.glide:glide:4.11.0'
+    annotationProcessor 'com.github.bumptech.glide:compiler:4.11.0'
+
+    implementation 'pl.bclogic:pulsator4droid:1.0.3'
+
+    implementation 'com.google.android.material:material:1.2.1'
+
+    implementation 'com.intuit.sdp:sdp-android:1.0.6'
+//    implementation 'com.google.android.play:review:2.0.1'
+    implementation 'pl.droidsonroids.gif:android-gif-drawable:1.2.25'
+    implementation platform('com.google.firebase:firebase-bom:31.4.0')
+    implementation 'com.google.firebase:firebase-analytics-ktx'
+    implementation 'com.appsflyer:af-android-sdk:6.9.3'
+    implementation 'com.appsflyer:adrevenue:6.4.3'
+    implementation project(path: ':commons')
+
+    implementation 'com.github.quangchienictu:AmazicAdsLibrary:2.1.8'
+    implementation 'com.google.android.gms:play-services-ads:22.1.0'
+    implementation 'com.facebook.shimmer:shimmer:0.5.0'
+    //multidex
+    implementation "androidx.multidex:multidex:2.0.1"
+
+
+    //retrofit
+    implementation 'com.squareup.retrofit2:retrofit:2.1.0'
+    implementation 'com.squareup.retrofit2:converter-gson:2.1.0'
+    implementation 'androidx.lifecycle:lifecycle-process:2.4.1'
+
+    // FAN Mediation
+    implementation 'com.google.ads.mediation:facebook:6.14.0.0'
+}

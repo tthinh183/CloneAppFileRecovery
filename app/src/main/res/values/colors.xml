@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#FCFCF5</color>
+    <color name="colorAccent">#1363DF</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlue">#0056FF</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorBlackTitle">#1B1D21</color>
+    <color name="colorPink">#FFE91E63</color>
+    <color name="colorGray">#BFBFBF</color>
+
+    <color name="white">#FFFFFFFF</color>
+    <color name="content_dialog">#939191</color>
+    <color name="title_dialog">#0066FF</color>
+    <color name="text_dialog">#939393</color>
+    <color name="status_color">#131E44</color>
+    <color name="cancel_color">#132744</color>
+    <color name="quit_color">#FF7171</color>
+    <color name="cancel_color1">#263A57</color>
+    <color name="quit_color1">#FF7E7E</color>
+    <color name="grow">#A46C4D</color>
+    <color name="black">#000000</color>
+
+    <color name="pink">#FF3898</color>
+    <color name="puple">#BD00FF</color>
+    <color name="blue">#6202FF</color>
+    <color name="blue1">#137CF8</color>
+    <color name="blue2">#0AFFF0</color>
+    <color name="green">#1EF90B</color>
+    <color name="yellow">#F8EE13</color>
+    <color name="orange">#FC7901</color>
+    <color name="red">#FF0000</color>
+
+    <color name="txtcolor">#E96025</color>
+    <color name="btncheck">#1C3964</color>
+    <color name="color_FF6933">#FF6933</color>
+    <color name="splashBG">#FCFCF5</color>
+    <color name="color_8593A3">#8593A3</color>
+    <color name="bg_item_language">#F4F7FA</color>
+    <color name="text_color">#1B1D21</color>
+    <color name="color_bottom_line_item">#8593A3</color>
+    <color name="color_bg_detail_item">#353B41</color>
+    <color name="color_label_detail_photo">#1B1D21</color>
+    <color name="color_bg_ads">#F0F0E6</color>
+</resources>

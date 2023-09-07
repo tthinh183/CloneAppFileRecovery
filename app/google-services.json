@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1078141949686",
+    "project_id": "file-recovery-8269d",
+    "storage_bucket": "file-recovery-8269d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078141949686:android:082d481fcb17ae40c1bed7",
+        "android_client_info": {
+          "package_name": "com.recovery.filerecovery.datarecovery.photorecovery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078141949686-j5casiukad6hue64pooqnb86vgj29lu5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKJeRGlEtHwVjHHiiIexLhK91I4XP8pgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078141949686-j5casiukad6hue64pooqnb86vgj29lu5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

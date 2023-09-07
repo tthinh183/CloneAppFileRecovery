@@ -1,0 +1,4 @@
+rootProject.name = "filerecovery"
+include ':app'
+include ':commons'
+include ':ads'

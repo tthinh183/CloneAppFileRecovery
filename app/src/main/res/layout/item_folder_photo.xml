@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingTop="@dimen/_34sdp"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/layout_go_detail_folder"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/tv_name_folder"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_color"
+            android:textSize="@dimen/_15sdp"
+            android:text=""/>
+        <TextView
+            android:id="@+id/tv_count_photo_in_folder"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_color"
+            android:textSize="@dimen/_15sdp"
+            android:text=""/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="end">
+
+            <ImageView
+                android:id="@+id/img_go_to_detail"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_arrow2"/>
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_marginTop="@dimen/_11sdp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="start">
+
+        <ImageView
+            android:id="@+id/img_first"
+            android:layout_width="@dimen/_87sdp"
+            android:layout_height="@dimen/_87sdp"
+            android:scaleType="fitCenter"
+            android:src="@drawable/image_intro1"/>
+
+        <ImageView
+            android:id="@+id/img_second"
+            android:layout_width="@dimen/_87sdp"
+            android:layout_height="@dimen/_87sdp"
+            android:scaleType="fitCenter"
+            android:layout_marginHorizontal="@dimen/_5sdp"
+            android:src="@drawable/image_intro1"/>
+
+        <ImageView
+            android:id="@+id/img_third"
+            android:layout_width="@dimen/_87sdp"
+            android:layout_height="@dimen/_87sdp"
+            android:scaleType="fitCenter"
+            android:src="@drawable/image_intro1"/>
+    </LinearLayout>
+
+</LinearLayout>
