@@ -5,7 +5,7 @@ import android.content.SharedPreferences;
 import android.preference.PreferenceManager;
 
 public class SharePrefUtils {
-    public static String email = "thinh010803@gmail.com";
+    public static String email = "";
     public static String email1 = "";
     public static String subject = "Feedback Recovery Data";
     public static String subjectRate = "Review for All Files Recovery";
